@@ -1,46 +1,93 @@
-# 👋 Hi, I'm Hamidreza!
+# 👋 Hi, I'm Hamidreza
 
-Welcome to my GitHub profile. I'm a developer working with **Django** for backend and **Flutter** for frontend/mobile development. I also work with **Python** and use **Git** for version control daily.
+Backend-focused developer building **real-world systems with Django & Python**.  
+I design and build APIs, backend architectures, and MVPs that are meant to scale beyond toy projects.
 
-I enjoy building complete, real-world applications — from REST APIs to cross-platform mobile apps. Clean code, good structure, and continuous learning are always on my mind.
-
----
-
-## 🔭 What I'm currently working on
-
-- Backend APIs with **Django & Django REST Framework**
-- Mobile & desktop apps with **Flutter (Dart)**
-- Version control & team workflow using **Git & GitHub**
+I care less about “just writing code” and more about building systems that actually work in production.
 
 ---
 
-## 🧠 Tech Stack
+## 🔭 What I build
 
-- Python (Django)
-- Flutter (Dart)
-- Git & GitHub
+- 🔧 Backend systems with **Django & Django REST Framework**
+- 🔐 Authentication, authorization, and user management systems
+- 📦 RESTful APIs for SaaS, booking, and e-commerce applications
+- ⚙️ Clean backend architecture (modular, scalable, maintainable)
+- 📱 Supporting mobile apps (Flutter) via well-designed APIs
+- 🚀 Deployment-ready backend services (basic CI/CD & Docker awareness)
+
+---
+
+## 🧠 Focus Areas
+
+- API Design & System Architecture
+- SaaS backend development (MVP → scalable systems)
+- Database design (PostgreSQL / MySQL)
+- Performance, structure, and maintainability
+- Turning ideas into working backend products
+
+---
+
+## 🧰 Tech Stack
+
+**Backend**
+- Python (Django, Django REST Framework)
 - REST APIs
-- Linux / Docker (basic)
-- MySQL / PostgreSQL
+- PostgreSQL
+- Authentication systems (JWT, session-based auth)
+
+**Dev Tools**
+- Git & GitHub
+- Linux basics
+- Docker (basic usage)
+- Postman / API testing tools
+
+**Mobile Support**
+- Flutter (Dart) for frontend integration
+
+---
+
+## 📌 What I'm currently focused on
+
+- Building production-style backend projects (SaaS / booking / API systems)
+- Improving system design and backend architecture skills
+- Working on real-world, portfolio-grade projects (not tutorials)
+
+---
+
+## 🤝 Open to collaboration
+
+I’m open to working on:
+- MVP development for startups
+- Backend API development for mobile/web apps
+- SaaS and automation tools
+- Early-stage product development
 
 ---
 
 ## 📫 Connect with me
-- [linkedin](https://www.linkedin.com/in/hamidrrezair)
 
-> Based in Iran — open to collaboration and exciting projects.
+- LinkedIn: [linkedin](https://www.linkedin.com/in/hamidrrezair)
 
 ---
 
+> Based in Iran — focused on remote collaboration and real-world backend projects.
 
-## 🛠️ Tech Stack
+---
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Thanks for visiting 🙌
+---
+
+## ⚡ Philosophy
+
+Build systems, not just projects.  
+Solve problems, not just exercises.
